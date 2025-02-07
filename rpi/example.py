@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from .id809 import ID809
+from ID809 import ID809
 import time
 
 def main():
